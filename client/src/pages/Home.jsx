@@ -302,9 +302,6 @@ const Home = () => {
               <p className="text-lg md:text-xl text-gray-600 mb-6">
                 {carouselItems[currentIndex].description}
               </p>
-              <button className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-6 rounded-full transition duration-300 transform hover:scale-105">
-                Shop Now
-              </button>
             </div>
           </motion.div>
         </AnimatePresence>

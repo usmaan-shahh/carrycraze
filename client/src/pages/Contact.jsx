@@ -66,8 +66,11 @@ const Contact = () => {
                     <h3 className="text-lg font-semibold text-gray-800 mb-1">
                       Our Location
                     </h3>
-                    <p className="text-gray-600">123 Bag Avenue</p>
-                    <p className="text-gray-600">Fashion District, NY 10001</p>
+                    <p className="text-gray-600">Fairdeal Shopping Complex</p>
+                    <p className="text-gray-600">
+                      Residency Road, Srinagar - 190001
+                    </p>
+                    <p className="text-gray-600">J&K, India</p>
                   </div>
                 </div>
 
@@ -92,8 +95,8 @@ const Contact = () => {
                     <h3 className="text-lg font-semibold text-gray-800 mb-1">
                       Call Us
                     </h3>
-                    <p className="text-gray-600">+1 (555) 123-4567</p>
-                    <p className="text-gray-600">Mon-Fri, 9am-6pm</p>
+                    <p className="text-gray-600">+91-9797709023,</p>
+                    <p className="text-gray-600">+91-9419084464</p>
                   </div>
                 </div>
 
@@ -118,8 +121,7 @@ const Contact = () => {
                     <h3 className="text-lg font-semibold text-gray-800 mb-1">
                       Email Us
                     </h3>
-                    <p className="text-gray-600">info@carrycraze.com</p>
-                    <p className="text-gray-600">support@carrycraze.com</p>
+                    <p className="text-gray-600">carry.craze@rediffmail.com</p>
                   </div>
                 </div>
               </div>
@@ -130,7 +132,9 @@ const Contact = () => {
                 </h3>
                 <div className="flex space-x-4">
                   <a
-                    href="#"
+                    href="https://www.facebook.com/share/16q9twj84c/"
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="bg-blue-100 hover:bg-blue-200 text-blue-600 p-3 rounded-full transition-colors duration-300"
                   >
                     <svg
@@ -147,7 +151,9 @@ const Contact = () => {
                     </svg>
                   </a>
                   <a
-                    href="#"
+                    href="https://www.instagram.com/carrycrazeofficial?igsh=bTNrM280bDcxbGl6"
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="bg-blue-100 hover:bg-blue-200 text-blue-600 p-3 rounded-full transition-colors duration-300"
                   >
                     <svg
@@ -163,19 +169,6 @@ const Contact = () => {
                       ></path>
                     </svg>
                   </a>
-                  <a
-                    href="#"
-                    className="bg-blue-100 hover:bg-blue-200 text-blue-600 p-3 rounded-full transition-colors duration-300"
-                  >
-                    <svg
-                      className="w-5 h-5"
-                      fill="currentColor"
-                      viewBox="0 0 24 24"
-                      aria-hidden="true"
-                    >
-                      <path d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84"></path>
-                    </svg>
-                  </a>
                 </div>
               </div>
             </div>
@@ -187,12 +180,8 @@ const Contact = () => {
               </h2>
               <ul className="space-y-3">
                 <li className="flex justify-between">
-                  <span className="text-gray-600">Monday - Friday:</span>
-                  <span className="font-medium">9:00 AM - 6:00 PM</span>
-                </li>
-                <li className="flex justify-between">
-                  <span className="text-gray-600">Saturday:</span>
-                  <span className="font-medium">10:00 AM - 4:00 PM</span>
+                  <span className="text-gray-600">Monday - Saturday:</span>
+                  <span className="font-medium">10:30AM - 7:00PM</span>
                 </li>
                 <li className="flex justify-between">
                   <span className="text-gray-600">Sunday:</span>
@@ -358,7 +347,8 @@ const Contact = () => {
                     </svg>
                     <p className="text-gray-600">Interactive map loading...</p>
                     <p className="text-gray-500 text-sm">
-                      123 Bag Avenue, Fashion District, NY 10001
+                      Fairdeal Shopping Complex, Residency Road, Srinagar -
+                      190001, J&K, India
                     </p>
                   </div>
                 </div>
