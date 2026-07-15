@@ -12,6 +12,7 @@ const Navbar = () => {
   const navLinks = [
     { name: "Home", path: "/" },
     { name: "About", path: "/about" },
+    { name: "Blog", path: "/blog" },
     { name: "Contact Us", path: "/contact" },
   ];
 
@@ -36,9 +37,8 @@ const Navbar = () => {
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               transition={{ duration: 0.5 }}
-              className="flex-shrink-0 flex items-center"
             >
-              <NavLink to="/" className="text-2xl font-bold text-blue-600">
+              <NavLink to="/" className="flex items-center text-2xl font-bold text-blue-600">
                 CarryCraze
               </NavLink>
             </motion.div>
@@ -70,9 +70,9 @@ const Navbar = () => {
           <div className="md:hidden flex items-center">
             <button
               onClick={toggleMenu}
-              className="inline-flex items-center justify-center p-2 rounded-md text-gray-700 hover:text-blue-600 hover:bg-gray-100 focus:outline-none"
+              className="inline-flex items-center justify-center p-2 rounded-md text-gray-700 hover:text-blue-600 hover:bg-gray-200 focus:outline-none"
+              aria-label="Toggle menu"
             >
-              <span className="sr-only">Open main menu</span>
               <svg
                 className={`${isOpen ? "hidden" : "block"} h-6 w-6`}
                 xmlns="http://www.w3.org/2000/svg"
@@ -118,8 +118,6 @@ const Navbar = () => {
             <motion.div
               key={link.name}
               variants={linkVariants}
-              whileHover={{ x: 5 }}
-              whileTap={{ scale: 0.95 }}
             >
               <NavLink
                 to={link.path}
