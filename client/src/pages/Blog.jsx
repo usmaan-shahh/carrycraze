@@ -1,7 +1,6 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
-import { Helmet } from "react-helmet-async";
 import { getSortedPosts } from "../data/blogData";
 
 // ============================================================================
@@ -16,6 +15,20 @@ const Blog = () => {
   // Get all posts sorted with the newest first.
   const posts = getSortedPosts();
 
+  // --- SEO: set the browser tab title and meta description for this page ---
+  // (Plain React - no external library needed, so the build stays lightweight.)
+  useEffect(() => {
+    document.title = "Blog | CarryCraze";
+    const desc = "Travel tips, buying guides and stories from the CarryCraze team.";
+    let tag = document.querySelector('meta[name="description"]');
+    if (!tag) {
+      tag = document.createElement("meta");
+      tag.setAttribute("name", "description");
+      document.head.appendChild(tag);
+    }
+    tag.setAttribute("content", desc);
+  }, []);
+
   // Turns "2025-05-01" into a friendly "May 1, 2025".
   const formatDate = (dateString) =>
     new Date(dateString).toLocaleDateString("en-US", {
@@ -26,15 +39,6 @@ const Blog = () => {
 
   return (
     <div className="pt-24 pb-16">
-      {/* SEO tags for the blog listing page */}
-      <Helmet>
-        <title>Blog | CarryCraze</title>
-        <meta
-          name="description"
-          content="Travel tips, buying guides and stories from the CarryCraze team."
-        />
-      </Helmet>
-
       <div className="max-w-6xl mx-auto px-4">
         {/* Page heading - matches the style used on the rest of the site */}
         <motion.div
