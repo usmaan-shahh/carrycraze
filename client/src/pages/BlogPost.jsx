@@ -1,7 +1,6 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { useParams, Link } from "react-router-dom";
 import { motion } from "framer-motion";
-import { Helmet } from "react-helmet-async";
 import { getPostBySlug } from "../data/blogData";
 
 // ============================================================================
@@ -12,10 +11,31 @@ import { getPostBySlug } from "../data/blogData";
 // a simple "Post not found" message. All content is managed from blogData.js.
 // ============================================================================
 
+// Small helper: sets the browser tab title and meta description (SEO).
+// Uses plain React so no extra library is needed.
+const useSeo = (title, description) => {
+  useEffect(() => {
+    document.title = title;
+    let tag = document.querySelector('meta[name="description"]');
+    if (!tag) {
+      tag = document.createElement("meta");
+      tag.setAttribute("name", "description");
+      document.head.appendChild(tag);
+    }
+    tag.setAttribute("content", description || "");
+  }, [title, description]);
+};
+
 const BlogPost = () => {
   // Grab the slug from the URL, e.g. /blog/my-post -> slug = "my-post"
   const { slug } = useParams();
   const post = getPostBySlug(slug);
+
+  // Set SEO tags (falls back to a "not found" title when the post is missing).
+  useSeo(
+    post ? post.metaTitle : "Post Not Found | CarryCraze",
+    post ? post.metaDescription : "This blog post could not be found."
+  );
 
   // Turns "2025-05-01" into a friendly "May 1, 2025".
   const formatDate = (dateString) =>
@@ -30,10 +50,6 @@ const BlogPost = () => {
     return (
       <div className="pt-24 pb-16">
         <div className="max-w-3xl mx-auto px-4 text-center">
-          <Helmet>
-            <title>Post Not Found | CarryCraze</title>
-            <meta name="description" content="This blog post could not be found." />
-          </Helmet>
           <h1 className="text-3xl font-bold text-gray-800 mb-4">
             Post not found
           </h1>
@@ -54,12 +70,6 @@ const BlogPost = () => {
   // ---- Case 2: post found - show the full article ----
   return (
     <div className="pt-24 pb-16">
-      {/* SEO tags pulled from the post's metaTitle / metaDescription */}
-      <Helmet>
-        <title>{post.metaTitle}</title>
-        <meta name="description" content={post.metaDescription} />
-      </Helmet>
-
       <article className="max-w-3xl mx-auto px-4">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
