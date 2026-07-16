@@ -63,8 +63,8 @@ const blogPosts = [
   {
     id: 2,
     slug: "best-carry-on-luggage-buying-guide",
-    title: "Best Carry-On Luggage: The Complete 2025 Buying Guide",
-    metaTitle: "Best Carry-On Luggage (2025 Buying Guide) | CarryCraze",
+    title: "Best Carry-On Luggage: The Complete 2026 Buying Guide",
+    metaTitle: "Best Carry-On Luggage (2026 Buying Guide) | CarryCraze",
     metaDescription:
       "Find the best carry-on luggage for your travels. Compare sizes, materials, wheels and TSA locks in this complete CarryCraze buying guide.",
     excerpt:
