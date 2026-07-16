@@ -72,7 +72,7 @@ const blogPosts = [
     coverImage:
       "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=1200&auto=format&fit=crop",
     author: "CarryCraze Team",
-    date: "2025-07-16",
+    date: "2026-07-16",
     tags: ["Travel", "Buying Guide", "Carry-On Luggage", "Packing Tips", "Luggage"],
     content: `
 <p>Choosing the <strong>best carry-on luggage</strong> is one of the smartest travel decisions you can make. A great cabin bag saves you checked-baggage fees, keeps your belongings close, and gets you out of the airport faster. At <strong>CarryCraze</strong> we test and sell travel gear every day, so we've put together this complete guide to help you pick a bag that lasts for years.</p>
