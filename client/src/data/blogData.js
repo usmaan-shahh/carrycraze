@@ -28,6 +28,38 @@
 
 const blogPosts = [
   {
+    id: 4,
+    slug: "how-to-choose-hiking-backpack",
+    title: "How to Choose the Perfect Hiking Backpack (2026 Buying Guide)",
+    metaTitle: "How to Choose the Perfect Hiking Backpack (2026 Guide) | CarryCraze",
+    metaDescription: "Learn how to choose the perfect hiking backpack in 2026 - the right size, fit, features and materials for comfortable trails. A complete buying guide from CarryCraze.",
+    excerpt: "The right hiking backpack can make or break your trail day. Here is how to choose the perfect hiking backpack by size, fit, features and materials.",
+    coverImage: "https://images.unsplash.com/photo-1501554728187-ce583db33af7?q=80&w=1200&auto=format&fit=crop",
+    author: "CarryCraze Team",
+    date: "2026-07-20",
+    tags: ["Hiking Backpack", "Outdoor Gear", "Buying Guide", "Trekking", "Hiking Essentials"],
+    content: `
+    <p>The right <strong>hiking backpack</strong> can be the difference between a trail you never forget and a day you cannot wait to end. Carry the wrong bag and you feel every kilometre in your shoulders. Carry the right one and it almost disappears. At <a href="https://carrycraze.in/" style="text-decoration:none"><strong>CarryCraze</strong></a> we believe your pack should work with you, not against you. This guide covers everything that matters when choosing a <strong>hiking backpack</strong> in 2026.</p>
+    <h2>Start with size (measured in litres)</h2>
+    <p>Backpacks are measured by capacity in litres, and picking the right range is the most important decision. For a <strong>day hike</strong>, a 15 to 30 litre pack holds water, snacks and a layer. For <strong>weekend trips</strong>, look at 30 to 50 litres. For <strong>multi-day treks</strong> with a tent and sleeping bag, choose 50 to 70 litres or more.</p>
+    <p>A common mistake is buying too big just in case. A larger pack tempts you to overpack, and more weight means more fatigue. Match the size to how you actually hike.</p>
+    <h2>Fit matters more than features</h2>
+    <p>A brilliant bag that does not fit your torso will still hurt. Focus on three points: the <strong>hip belt</strong>, which should carry most of the weight on your hips; the <strong>shoulder straps</strong>, which should wrap without digging in; and the <strong>torso length</strong>, which must match your back. When you try one on, load it with weight first. An empty pack feels great on everyone.</p>
+    <h2>Look for features that earn their place</h2>
+    <p>A <strong>ventilated back panel</strong> keeps sweat down on hot climbs. <strong>Multiple compartments</strong> help you reach your rain jacket without unpacking everything. A built-in <strong>rain cover</strong> protects your gear, and <strong>compression straps</strong> stabilise the load so it does not shift as you move.</p>
+    <h2>Material and durability</h2>
+    <p>A hiking backpack lives a hard life, so build quality counts. Look for <strong>ripstop nylon</strong> or high-denier polyester, which resist tears and abrasion. Check that zippers feel solid and that stress points are reinforced. For an authoritative overview of pack types and fit, the <a href="https://www.rei.com/learn/expert-advice/backpack.html" style="text-decoration:none"><strong>REI backpack buying guide</strong></a> is a great reference, and you can plan routes to match your pack on <a href="https://www.alltrails.com/" style="text-decoration:none"><strong>AllTrails</strong></a>.</p>
+    <h2>Hike responsibly</h2>
+    <p>Wherever your pack takes you, tread lightly. The <a href="https://lnt.org/why/7-principles/" style="text-decoration:none"><strong>Leave No Trace principles</strong></a> help protect the trails we love, and the <a href="https://www.nps.gov/subjects/hiking/index.htm" style="text-decoration:none"><strong>National Park Service hiking safety tips</strong></a> and the <a href="https://americanhiking.org/" style="text-decoration:none"><strong>American Hiking Society</strong></a> are excellent resources for planning safe adventures.</p>
+    <h2>Match the pack to your adventure</h2>
+    <p>A weekend beginner and a seasoned trekker need very different bags. If you mostly do short local trails, prioritise comfort and quick access. If you head into remote terrain, prioritise load support and weather protection. The same care that goes into our trekking gear goes into our travel range, as you will see across the <a href="https://carrycraze.in/blog" style="text-decoration:none"><strong>CarryCraze Blog</strong></a>.</p>
+    <h2>Final thoughts</h2>
+    <p>Choosing the perfect <strong>hiking backpack</strong> comes down to honest questions about trip length, torso fit and weather. Answer those, prioritise fit over flash, and your pack will feel like part of you. When you are ready to gear up, explore our <a href="https://carrycraze.in/" style="text-decoration:none"><strong>hiking backpack collection</strong></a>, learn about our story on the <a href="https://carrycraze.in/about" style="text-decoration:none"><strong>About page</strong></a>, and reach out any time through our <a href="https://carrycraze.in/contact" style="text-decoration:none"><strong>Contact page</strong></a>.</p>
+    <h2>Related reads</h2>
+    <p>Planning a trip beyond the trail? Do not miss our <a href="https://carrycraze.in/blog/choosing-the-perfect-travel-luggage" style="text-decoration:none"><strong>guide to choosing the perfect travel luggage</strong></a>.</p>
+    `,
+  },
+  {
         id: 3,
         slug: "lightweight-luggage-travel-light-guide",
         title: "Lightweight Luggage: How to Travel Light Without Leaving Anything Behind (2026 Guide)",
