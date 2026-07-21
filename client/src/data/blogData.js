@@ -5,7 +5,7 @@
 //
 // HOW TO ADD A NEW POST (no coding experience needed):
 // 1. Copy one of the objects inside the "blogPosts" array below
-//    (everything between a pair of { curly braces }, including the comma).
+//    (everything between a pair of { curly braces }, including the comma). 
 // 2. Paste it as a new item in the array.
 // 3. Change the values (the text after each ":") to your new post's info.
 // 4. IMPORTANT: give the post a NEW unique "id" number and a NEW unique
