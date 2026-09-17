@@ -49,3 +49,53 @@
 .blog-content strong {
   font-weight: 700;
 }
+
+/* Comparison tables and lists inside blog posts. Tailwind preflight strips
+   table borders and list markers, so they are restored here. The table
+   scrolls sideways on narrow screens instead of breaking the layout. */
+
+.blog-content table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+.blog-content th,
+.blog-content td {
+  border: 1px solid #e5e7eb;
+  padding: 0.625rem 0.75rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.blog-content th {
+  background-color: #f9fafb;
+  font-weight: 700;
+  color: #1f2937;
+}
+
+.blog-content tbody tr:nth-child(even) {
+  background-color: #fcfcfd;
+}
+
+.blog-content ul,
+.blog-content ol {
+  margin: 1rem 0;
+  padding-left: 1.5rem;
+}
+
+.blog-content ul {
+  list-style: disc;
+}
+
+.blog-content ol {
+  list-style: decimal;
+}
+
+.blog-content li {
+  margin-bottom: 0.5rem;
+}
