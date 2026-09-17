@@ -2135,6 +2135,134 @@ const blogPosts = [
 <p>The <strong>best carry-on luggage</strong> is the bag that fits your airline, matches your travel style, and lasts for years without letting you down. Focus on size, weight, material, and wheels first, then let the small details guide your final choice. When you're ready to travel smarter, explore our latest arrivals and read our related guide on <strong><a href="/blog/choosing-the-perfect-travel-luggage" style="text-decoration:none">how to choose the perfect travel luggage</a></strong> to complete your research.</p>
 `,
   },
+  {
+    id: 47,
+    slug: "cabin-bag-size-india",
+    title: "Cabin Bag Size Rules for Indian Domestic Flights",
+    metaTitle: "Cabin Bag Size Rules for Indian Flights | CarryCraze",
+    metaDescription: "Cabin bag size limits for Indian domestic flights, airline by airline, with the 115 cm rule explained and what really fits. Check yours before you fly.",
+    excerpt: "The 115 cm limit is not one number, it is a box. Here is what clears the gate frame on every Indian domestic carrier.",
+    coverImage: "https://images.pexels.com/photos/3885529/pexels-photo-3885529.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    author: "CarryCraze Team",
+    date: "2026-09-17",
+    tags: ["Cabin Bag", "Carry-On Luggage", "Travel Tips", "Buying Guide", "Packing Tips", "Luggage"],
+    content: `
+<h2>What the 115 cm Cabin Bag Size Rule Actually Means</h2>
+
+<p>Every Indian domestic airline sets its <strong>cabin bag size</strong> limit the same way, and almost nobody reads it correctly. The number you keep seeing is 115 cm. That is not the height of your bag. It is length plus width plus height added together, measured with the wheels and the handle included. A bag that looks small can still fail, because those four spinner wheels and that retractable trolley handle count toward the total.</p>
+
+<p>Here is why this matters on an Indian route more than it does elsewhere. Domestic flights out of Delhi, Mumbai, Bengaluru and Hyderabad run close to full most days of the week. Overhead bins fill by boarding group two. Ground staff at the gate have a metal sizer frame, and on busy mornings they use it. If your bag does not drop into that frame, it goes into the hold, and you stand at the belt in Chennai for twenty five minutes wondering why you bothered packing light.</p>
+
+<p>This guide covers the real numbers from the airlines themselves, how to measure your own bag properly, what fits inside the legal box, and the weight rule that catches more travellers than the size rule ever does.</p>
+
+<img src="https://images.pexels.com/photos/3885493/pexels-photo-3885493.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Traveller walking towards an airport terminal with a cabin trolley bag and a shoulder bag" width="900" height="600" loading="lazy" style="border-radius:12px" />
+
+<h2>Cabin Bag Size Limits on Indian Airlines Right Now</h2>
+
+<p>The three carriers below fly the bulk of Indian domestic traffic. Their published allowances look similar at a glance. They are not identical, and the difference shows up in the shape of the bag rather than the total.</p>
+
+<table>
+<thead>
+<tr><th>Airline</th><th>Maximum dimensions</th><th>Cabin bag weight</th><th>Extra personal item</th></tr>
+</thead>
+<tbody>
+<tr><td><strong><a href="https://www.goindigo.in/baggage/cabin-baggage.html" style="text-decoration:none;">IndiGo</a></strong></td><td>55 x 35 x 25 cm, 115 cm total</td><td>7 kg</td><td>Not listed as a separate allowance</td></tr>
+<tr><td><strong><a href="https://www.airindia.com/in/en/travel-information/baggage-guidelines/cabin-baggage.html" style="text-decoration:none;">Air India</a></strong></td><td>55 x 40 x 20 cm, 115 cm total</td><td>7 kg economy, 10 kg business</td><td>Yes, up to 3 kg, must fit under the seat</td></tr>
+<tr><td><strong><a href="https://www.akasaair.com/quick-links/baggage" style="text-decoration:none;">Akasa Air</a></strong></td><td>115 cm total</td><td>7 kg</td><td>Yes, up to 3 kg, must fit under the seat</td></tr>
+</tbody>
+</table>
+
+<p>Look at the two box shapes carefully. IndiGo allows 35 cm of width but only 25 cm of depth. Air India allows 40 cm of width but only 20 cm of depth. Both add up to 115 cm. A fat 25 cm deep trolley that sails onto an IndiGo flight is 5 cm over on the Air India gauge, even though the total is legal. If you fly both carriers, buy for the tighter number in each dimension, not for the total.</p>
+
+<h3>Why the Same 115 cm Gives You Two Different Bags</h3>
+
+<p>Airlines write the rule as a sum because it is easy to print. They enforce it with a rigid frame, which is a box, not a sum. The frame does not care about arithmetic. This is the single most useful thing to understand about <strong>cabin bag size</strong> in India, and it explains why travellers argue at the gate holding a bag that is technically within the limit.</p>
+
+<p>The safe target is 55 x 35 x 20 cm. That clears the IndiGo frame on width and the Air India frame on depth. Anything built to those numbers travels across every Indian domestic carrier without a conversation. If you are choosing a new piece, our <strong><a href="/blog/best-carry-on-luggage-buying-guide" style="text-decoration:none;">complete carry-on buying guide</a></strong> walks through how the internal volume changes once you lock those outside numbers.</p>
+
+<h2>The Weight Limit Catches More People Than the Cabin Bag Size</h2>
+
+<p>Seven kilograms sounds generous until you weigh the empty bag. A four wheel hard shell trolley in polycarbonate starts at roughly 2.6 kg and many sit closer to 3.4 kg. An ABS shell is usually heavier again. A soft sided trolley in 1680D ballistic nylon lands around 2.2 to 2.8 kg. A frameless cabin backpack can come in under 1.1 kg.</p>
+
+<p>Do the subtraction. Choose a 3.4 kg hard shell and you have 3.6 kg left for everything you own. Choose a 1.1 kg backpack and you have 5.9 kg. That gap is a laptop, a pair of shoes and two extra shirts. It is the reason experienced domestic flyers in India stopped buying heavy shells for short hops years ago.</p>
+
+<p>Gate staff on Indian carriers weigh cabin bags at the boarding gate, not only at check in. Mumbai and Delhi morning departures are the strictest, because those are the flights where bins run out first. Bathroom scales work fine for a home check. Weigh yourself, weigh yourself holding the packed bag, subtract. If you are hovering at 7.2 kg, move the heaviest item into your jacket pocket or your under seat bag before you reach the gate.</p>
+
+<p>Travelling lighter is a skill, not a sacrifice. Our guide on <strong><a href="/blog/how-to-travel-light" style="text-decoration:none;">cutting your packing list down</a></strong> covers the swaps that save the most weight for the least discomfort.</p>
+
+<h2>How to Measure Cabin Bag Size at Home</h2>
+
+<p>Take a soft tape measure and put the bag on the floor, upright, the way it stands in the bin.</p>
+
+<p><strong>Height.</strong> Measure from the floor, wheels included, to the very top of the bag with the trolley handle pushed all the way down. Handle housings often add 2 cm that the product listing quietly leaves out.</p>
+
+<p><strong>Width.</strong> Measure across the widest point of the face, including any side pocket, grab handle or bumper strip that sticks out.</p>
+
+<p><strong>Depth.</strong> Measure the bag packed, not empty. A soft sided bag stuffed with a week of clothes gains 3 to 5 cm of belly. That belly is what gets caught in the sizer frame.</p>
+
+<p>Add the three numbers. If you are at 115 cm or under and no single dimension breaks the tighter airline limit, you are clear. Write the numbers on a slip of paper and keep it in the front pocket. It ends arguments quickly.</p>
+
+<img src="https://images.pexels.com/photos/7368218/pexels-photo-7368218.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Clothes and travel items being packed into an open cabin suitcase" width="900" height="600" loading="lazy" style="border-radius:12px" />
+
+<h2>What Actually Fits Inside a 55 by 35 by 20 Bag</h2>
+
+<p>The legal box holds more than people expect. For a three day work trip out of Bengaluru, a well packed cabin bag carries two pairs of trousers, three shirts, a light jacket, two sets of innerwear and socks per day, one pair of shoes worn on the plane and one packed flat along the base, a toiletry pouch under 100 ml per container, a charger roll and a 14 inch laptop.</p>
+
+<p>Rolling beats folding for shirts and trousers, and it also lets you push clothes into the corners the bin light never reaches. Compression cubes buy you roughly fifteen percent more usable volume, though they add their own 200 to 300 grams. Shoes go sole down along the base with socks stuffed inside them. Nothing heavy goes in the top lid, because a heavy lid makes the bag tip out of the frame.</p>
+
+<p>For a step by step method rather than a list, our <strong><a href="/blog/carry-on-packing-guide" style="text-decoration:none;">carry-on packing walkthrough</a></strong> shows the order to load the bag so the weight sits low and the shape stays square.</p>
+
+<h2>Materials That Survive Indian Airport Handling</h2>
+
+<p>Cabin bags rarely go on a belt, but they take a different kind of beating. They get dragged across Terminal 3 flooring, wedged into an autorickshaw footwell, stood on a wet ramp in July and shoved sideways into a bin by a stranger. Build quality shows up fast.</p>
+
+<p>For soft sided bags, 1680D ballistic nylon is the durable choice, with a dense weave that resists abrasion at the corners where the bag scrapes. 600D polyester costs less and weighs less, and it does fine for occasional travel, but it scuffs sooner at stress points. A PU coating on the inside face is what keeps a sudden Mumbai downpour out of your laptop sleeve, and it wears off gradually, so a five year old bag is not as water resistant as it was on day one.</p>
+
+<p>Check the zips before anything else. YKK zips with a chunky number 8 or number 10 chain on the main opening survive being forced shut on an overpacked bag. Cheap unbranded chains split at the corner radius, always at the corner, usually on a work trip. Look at stitching density too. Eight to ten stitches per inch with bar tacks at the handle anchors is the standard to want.</p>
+
+<p>For hard shells, polycarbonate flexes and returns to shape. ABS is cheaper and cracks in cold cargo conditions, which matters less on a cabin bag but still shows up as stress whitening at the corners. Polypropylene sits between the two on price and holds up well in Indian heat.</p>
+
+<p>If you are weighing soft against hard for your own travel pattern, our piece on <strong><a href="/blog/choosing-the-perfect-travel-luggage" style="text-decoration:none;">picking the right travel luggage</a></strong> goes deeper into that trade off.</p>
+
+<h2>Power Banks and Batteries Must Ride With You</h2>
+
+<p>This is the rule that gets bags opened at security more than any other. Spare lithium batteries and power banks are not allowed in checked luggage at all. They travel in the cabin, with you, every time. The <strong><a href="https://www.faa.gov/hazmat/packsafe/lithium-batteries" style="text-decoration:none;">FAA guidance on lithium batteries</a></strong> sets the widely used threshold at 100 watt hours per battery, with anything from 101 to 160 watt hours needing airline approval and capped at two units per passenger.</p>
+
+<p>Most consumer power banks sit under that line. A 20000 mAh pack at 3.7 volts works out to roughly 74 watt hours, so it is fine. The problem is the unmarked ones. If the casing does not print a watt hour or a milliamp hour rating, security staff have no way to clear it and it gets taken. Buy rated, marked units only.</p>
+
+<p>Two practical habits. Tape over loose battery terminals or keep spares in their retail packaging so they cannot short against keys or coins. And if your cabin bag gets gate checked at the last minute, pull the power bank and any spare batteries out and carry them onto the aircraft in your hand. Rules on using or charging a power bank during the flight itself have tightened on several Indian carriers, so check your airline page before you fly.</p>
+
+<img src="https://images.pexels.com/photos/7365311/pexels-photo-7365311.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Person folding clothes into a cabin sized suitcase before a short trip" width="900" height="600" loading="lazy" style="border-radius:12px" />
+
+<h2>Monsoon Travel and the Gate Check Nobody Plans For</h2>
+
+<p>Between June and September the walk from the terminal to a remote stand happens under an open sky more often than airlines admit. A bus gate at Mumbai in heavy rain will soak an uncoated fabric bag in under two minutes. That is the moment a PU coated lining or a tucked away rain cover earns its place.</p>
+
+<p>Humidity does slower damage. Leather trim on a cabin bag left packed and shut in a Kochi or Kolkata flat through the monsoon grows mould at the stitch lines. Air the bag out after every trip, leave it unzipped, and never store it inside a sealed plastic cover. Our guide on <strong><a href="/blog/how-to-store-bags-off-season" style="text-decoration:none;">storing bags through the off season</a></strong> covers the humidity problem properly.</p>
+
+<p>The other monsoon reality is delay. When departures back up, bins fill faster because passengers from cancelled flights are rebooked onto yours. Board early if your ticket lets you. If you are in the last boarding group on a full monsoon evening flight, assume your bag might be gate checked and keep documents, medication, chargers and the laptop within reach.</p>
+
+<h2>Your Pre Flight Cabin Bag Size Checklist</h2>
+
+<p><strong>Measure with wheels and handle included.</strong> Every time, on every bag, before you commit to it as your travel piece.</p>
+
+<p><strong>Respect the tighter number, not the total.</strong> Build to 55 x 35 x 20 cm and you clear every Indian domestic carrier.</p>
+
+<p><strong>Weigh the packed bag at home.</strong> Seven kilograms is the ceiling, and the empty bag eats a third of it.</p>
+
+<p><strong>Keep the power bank accessible.</strong> It never goes in the hold, and it may need to come out at the gate.</p>
+
+<p><strong>Check your specific airline the week you fly.</strong> These numbers change, and the airline page is the only version that counts.</p>
+
+<p>If you are still deciding between a wheeled cabin bag and something you carry on your back, our comparison of <strong><a href="/blog/how-to-choose-travel-backpack" style="text-decoration:none;">travel backpacks for different trip types</a></strong> is a good next read. You can also browse the full range on the <strong><a href="/" style="text-decoration:none;">CarryCraze home page</a></strong>, or <strong><a href="/contact" style="text-decoration:none;">get in touch with our team</a></strong> if you want a recommendation for a specific route or trip length.</p>
+
+<h2>Final Word on Cabin Bag Size Rules</h2>
+
+<p>The <strong>cabin bag size</strong> rule on Indian domestic flights is simpler than it looks once you stop reading 115 cm as a single number. It is a box, enforced by a metal frame, and the shape of that box shifts slightly between carriers. Build to the tightest dimension in each direction and the question never comes up again.</p>
+
+<p>Weight is where most travellers actually lose. A lighter bag is not a compromise, it is three extra kilograms of your own things instead of the manufacturer's. Measure once, weigh before you leave home, and keep the batteries where you can reach them. Do those three things and boarding becomes the easy part of the trip. At <strong>CarryCraze</strong> we build for exactly this kind of travel, where the bag has to clear a frame, survive a monsoon ramp and still look right walking into a meeting an hour after landing.</p>
+`,
+  },
 ];
 
 // Sorting helper: this returns the posts with the NEWEST first,
